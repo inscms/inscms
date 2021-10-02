@@ -1,0 +1,9 @@
+{
+  "name": "inscms/inscms",
+  "type": "library",
+  "description": "Initial Empty Package",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3.0"
+  }
+}
